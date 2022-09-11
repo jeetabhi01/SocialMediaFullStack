@@ -8,9 +8,12 @@ by JWT and Google authentication with React.The backend is powererd by Node,Expr
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/69208178/128592826-df1f5399-72b5-4e16-b0f1-68c62a04f66e.png)
+![App Screenshot](![image](https://user-images.githubusercontent.com/61404772/189519803-330a6c66-6a24-4710-9bad-47ac097fef10.png)
+)
 
   
+
+
 ## Deployment
 
 Firstly deploy the backend on the Heroku ,with port
@@ -57,6 +60,6 @@ Learned about the functionality of Redux and how the end point are made for back
   
 ## Authors
 
-- [Rishabh Verma](https://www.github.com/aryan2621)
+- [Abhijeet Khopkar](https://www.github.com/jeetabhi01)
 
   
