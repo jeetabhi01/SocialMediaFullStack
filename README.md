@@ -9,7 +9,7 @@ by JWT and Google authentication with React.The backend is powererd by Node,Expr
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/61404772/189519803-330a6c66-6a24-4710-9bad-47ac097fef10.png)
-)
+
 
   
 
